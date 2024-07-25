@@ -1,4 +1,3 @@
 streamlit
 cohere
-smtplib
 langchain
