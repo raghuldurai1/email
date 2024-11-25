@@ -7,7 +7,7 @@ from email.mime.multipart import MIMEMultipart
 
 # Hardcoded credentials for local testing
 EMAIL_ADDRESS = "raghuldurai300@gmail.com"
-EMAIL_PASSWORD = "jkga pfgu xcwi gede"
+EMAIL_PASSWORD = "ggqn sctj zjxf nzto"
 COHERE_API_KEY = "o4SMHvCR9cSvNRtc2f8QtL6uEqXWfAo5mnNVF6Gn"
 
 # Initialize the Cohere client
